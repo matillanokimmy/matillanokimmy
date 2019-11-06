@@ -115,12 +115,6 @@ ul li:hover ul li{
   padding: 0 10px;
 }
 
-.header {
-  background: url(images/bg.jpg) no-repeat center center;
-  background-size: cover;
-  height: 800px;
-  text-align: center;
-}
 
 .header container {
   position: relative;
@@ -174,13 +168,6 @@ ul li:hover ul li{
 	margin-left:auto;
 	margin-right:auto;
 }
-
-.school image{
-  background: url(images/jumbotron_bg.jpg) center center;
-  background-size: cover;
-  height: 600px;
-}
-
 .school image.container {
   position: relative;
   top: 220px;
