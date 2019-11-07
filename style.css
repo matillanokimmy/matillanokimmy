@@ -123,9 +123,17 @@ ul li:hover ul li{
 }
 
 .header h1 {
-  color: #fff;
+  color: black;
   line-height: 100px;
   font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
+.header h3 {
+  color: black;
+  line-height: 50px;
+  font-size: 40px;
   margin-top: 0;
   margin-bottom: 80px;
   text-transform: uppercase;
@@ -207,7 +215,7 @@ ul li:hover ul li{
   .header h1 {
     font-size: 500px;
     line-height: 64px;
-    color:black;
+
   }
 
   .main, .school image{
