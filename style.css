@@ -196,7 +196,7 @@ ul li:hover ul li{
 }
 
 .footer p {
-  color: black;
+  color: #fff;
   font-size: 14px;
   height: 80px;
   line-height: 80px;
@@ -207,6 +207,7 @@ ul li:hover ul li{
   .header h1 {
     font-size: 500px;
     line-height: 64px;
+    color:black;
   }
 
   .main, .school image{
